@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cuong\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cuong\\source\\repos\\Kalculator\\Kalculator\\Kalculator.csproj",
+      "projectUniqueName": "E:\\5namBK\\nam3\\hk1\\PBL4\\Keylogger_Calculator\\Kalculator\\Kalculator.csproj",
       "projectName": "Kalculator",
-      "projectPath": "C:\\Users\\cuong\\source\\repos\\Kalculator\\Kalculator\\Kalculator.csproj",
-      "packagesPath": "C:\\Users\\cuong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cuong\\source\\repos\\Kalculator\\Kalculator\\obj\\",
+      "projectPath": "E:\\5namBK\\nam3\\hk1\\PBL4\\Keylogger_Calculator\\Kalculator\\Kalculator.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "E:\\5namBK\\nam3\\hk1\\PBL4\\Keylogger_Calculator\\Kalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

